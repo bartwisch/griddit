@@ -1,0 +1,51 @@
+Transform Reddit into a stunning visual gallery!
+
+Griddit turns any subreddit or user profile into a beautiful, Pinterest-style media grid. Browse thousands of images, videos, and GIFs with an elegant, distraction-free interface designed for visual content discovery.
+
+✨ KEY FEATURES:
+
+📸 Media Grid View
+Browse Reddit posts in a clean, visual masonry-style grid layout. Perfect for image-heavy subreddits.
+
+🖼️ Fullscreen Lightbox
+Click any image or video to view it in a beautiful fullscreen lightbox with easy navigation.
+
+⚙️ Customizable Layout
+• Choose between 2-6 grid columns
+• Multiple aspect ratios (square, portrait, landscape, auto)
+• Dark and light themes
+
+🔍 Smart Navigation
+• Sort by Hot, New, Top, or Rising
+• Quick search to jump to any subreddit or user
+• Keyboard shortcuts for fast browsing
+
+💾 Save & Follow
+• Follow your favorite subreddits and users
+• Save posts for later viewing
+• Export/import your data
+
+⬇️ Built-in Downloader
+Download images and videos directly from the lightbox with one click.
+
+🔒 Privacy Focused
+• No data collection
+• No tracking
+• Everything stored locally in your browser
+
+⌨️ KEYBOARD SHORTCUTS:
+• Arrow keys: Navigate between posts
+• Escape: Close lightbox or gallery
+
+🚀 HOW TO USE:
+1. Visit any Reddit page
+2. Click the orange gallery button in the bottom-right corner
+3. Enjoy browsing!
+
+Perfect for:
+• Art and photography subreddits
+• Meme browsing
+• Visual content discovery
+• User profile exploration
+
+No login required. Works instantly on any subreddit!
