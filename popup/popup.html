@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div class="popup">
+    <div class="header">
+      <h1>🖼️ Griddit</h1>
+    </div>
+    
+    <div class="section">
+      <h2>Quick Access</h2>
+      <div class="quick-input">
+        <input type="text" id="quick-go" placeholder="r/subreddit or u/username">
+        <button id="go-btn">Go</button>
+      </div>
+    </div>
+    
+    <div class="section">
+      <h2>Followed Subreddits</h2>
+      <div id="followed-subs" class="list"></div>
+    </div>
+    
+    <div class="section">
+      <h2>Followed Users</h2>
+      <div id="followed-users" class="list"></div>
+    </div>
+    
+    <div class="section">
+      <h2>Saved Posts</h2>
+      <div id="saved-posts" class="list"></div>
+    </div>
+    
+    <div class="section">
+      <h2>Settings</h2>
+      <div class="setting">
+        <label>Default Columns</label>
+        <select id="columns-setting">
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+          <option value="6">6</option>
+        </select>
+      </div>
+      <div class="setting">
+        <label>Default Aspect Ratio</label>
+        <select id="aspect-setting">
+          <option value="square">Square</option>
+          <option value="portrait">Portrait</option>
+          <option value="landscape">Landscape</option>
+          <option value="auto">Auto</option>
+        </select>
+      </div>
+      <div class="setting">
+        <label>Theme</label>
+        <select id="theme-setting">
+          <option value="dark">Dark</option>
+          <option value="light">Light</option>
+        </select>
+      </div>
+      <div class="setting">
+        <label>Show NSFW</label>
+        <input type="checkbox" id="nsfw-setting">
+      </div>
+    </div>
+    
+    <div class="section">
+      <h2>Import/Export</h2>
+      <div class="buttons">
+        <button id="export-btn">Export Data</button>
+        <button id="import-btn">Import Data</button>
+        <input type="file" id="import-file" accept=".json" style="display: none;">
+      </div>
+    </div>
+    
+    <div class="footer">
+      <p>Click the 🖼️ button on Reddit to open the gallery</p>
+    </div>
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>
