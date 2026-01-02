@@ -5,7 +5,7 @@ A Chrome extension that transforms any subreddit or user profile into a beautifu
 [![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-Install-green?logo=google-chrome)](https://chromewebstore.google.com/detail/griddit/llhgegcbepcedgdifkaimpmaakmmlicd)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-![Griddit Screenshot](store/promo_large.png)
+![Griddit Screenshot](https://raw.githubusercontent.com/bartwisch/griddit/main/store/screenshot.png)
 
 ## Features
 
